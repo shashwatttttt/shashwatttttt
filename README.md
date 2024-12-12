@@ -5,7 +5,7 @@
     
 
 
-A technophile driven by a passion for innovation, dedicated to building ground-breaking products and empowering developer ecosystems and communities. With a knack for combining creativity with technology, I aim to create solutions that inspire, engage, and transform the way we interact with the digital world.
+A technophile driven by a passion for innovation, dedicated to building ground-breaking products and empowering developer ecosystems and communities. With a knack for combining creativity with technology, I aim to create solutions that inspire, engage, and transform how we interact with the digital world.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shashwatttttt&color=blue)
 
@@ -23,8 +23,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Anime is the best way to deal with BurnOuts
 
   ---
+  ## Latest Articles👇:
+  - https://medium.com/@tshashwat568/deep-dive-into-json-what-why-ecb36a99623f
+  - https://medium.com/@tshashwat568/cyber-security-threat-intelligence-platforms-cti-guide-f8a1c9514231
 
-I work with: 
+  
+    
+## I work with: 
 
 Here's what you'll find:
 - 🚀 Cool projects
