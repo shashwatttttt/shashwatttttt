@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 🤔 Technical Content Creator and Writer ✍🏻
 - 💬 Tech Educator @hackersvilla 👩🏻‍🏫
 - 📫 How to reach me: https://www.linkedin.com/in/shashwatttttt/
-- 😄 Table Tennise Player 
+- 😄 Table Tennis Player 
 - ⚡ Fun fact: ... Anime is the best way to deal with BurnOuts
 
   ---
-  ## Latest Articles👇:
+  ## My Latest Articles👇:
   - https://medium.com/@tshashwat568/deep-dive-into-json-what-why-ecb36a99623f
   - https://medium.com/@tshashwat568/cyber-security-threat-intelligence-platforms-cti-guide-f8a1c9514231
 
