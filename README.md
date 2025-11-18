@@ -38,7 +38,6 @@ Here's what you'll find:
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="50" style="margin: 20px;"/>
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="50" style="margin: 20px;"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" style="margin: 30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" style="margin: 10px;"/>
