@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 
 - 🔭 B.Tech Graduate from Delhi University🎓
 - 🌱 Full Stack Web and Application Developer📱
-- 👯 Passionate about Web3 & Cyber-Security🌐
+- 👯 Passionate about Applied AI, Web3 & Cyber-Security🌐
 - 🤔 Technical Content Creator and Writer ✍🏻
 - 💬 Tech Educator @hackersvilla 👩🏻‍🏫
 - 📫 How to reach me: https://www.linkedin.com/in/shashwatttttt/
 - 😄 Table Tennis Player 
-- ⚡ Fun fact: ... Anime is the best way to deal with BurnOuts
-
+- ⚡ Fun fact: ... Everything is dragggg, Until you find a way to make it happen....
   ---
   ## My Latest Articles👇:
   - https://medium.com/@tshashwat568/deep-dive-into-json-what-why-ecb36a99623f
