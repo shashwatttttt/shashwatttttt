@@ -13,7 +13,7 @@ A technophile driven by a passion for innovation, dedicated to building ground-b
 
 Here are some ideas to get you started:
 
-- 🔭 B.Tech Graduate from Delhi University🎓
+- 🔭 B.Tech Deop-Out from Delhi University🎓
 - 🌱 Full Stack Web and Application Developer📱
 - 👯 Passionate about Applied AI, Web3 & Cyber-Security🌐
 - 🤔 Technical Content Creator and Writer ✍🏻
